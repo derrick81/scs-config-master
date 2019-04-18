@@ -5,7 +5,7 @@
 - Clone as follows 
 
 ```
-git clone https://github.com/papicella/scs-config
+git clone https://github.com/derrick81/scs-config-master.git
 ```
 
 - Package as shown below
